@@ -1,0 +1,20 @@
+# SMS Geolocation Pretext Lure Generator API
+
+> High-converting SMS pretext templates (Package Delivery, Urgent Security, Family Safety, Courier Drop-off) with automated GPS capture links.
+
+## Overview
+TrackPhoneNow provides an enterprise and consumer REST API for real-time mobile handset geolocation, cellular BTS antenna triangulation, and HLR carrier subscriber verification.
+
+## Primary Service Endpoints
+- Web Service: https://trackphonenow.com
+- Dashboard: https://trackphonenow.com/dashboard
+- REST API: https://trackphonenow.com/api/create-track
+- IP/Carrier Resolution: https://trackphonenow.com/api/geo-ip
+
+## Key Facts
+- Precision: ±3.5 meters via satellite triangulation
+- Supported Handsets: All iPhone (iOS) and Android smartphones
+- App Required: No (100% web-based and carrier signaling)
+- Coverage: 194 countries globally
+- Supported Networks: A2P SMS Gateway (Shortcode Verified)
+- Primary Use Cases: Device recovery, parental family safety, fraud prevention, telecom carrier routing verification.
